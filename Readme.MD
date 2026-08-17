@@ -279,9 +279,8 @@ Cognizant-DNS/
 
 ## 🎯 Repository Purpose
 
-This repository serves as a record of my learning journey throughout the **Cognizant Digital Nurture 5.0 – Java Full Stack Engineer** program. It includes:
+This repository serves as a record of my learning journey throughout the **Cognizant Digital Nurture 5.0 – Java Full Stack Engineer** program. It includes:✅ Hands-on Labs
 
-- ✅ Hands-on Labs
 - ✅ Practice Programs
 - ✅ Coding Exercises
 - ✅ Assignments
@@ -309,3 +308,4 @@ This repository serves as a record of my learning journey throughout the **Cogni
 
 This repository will continue to be updated as I complete additional weeks of the **Cognizant Digital Nurture 5.0** program, including new assignments, projects and topics.
 
+Week 1 to Week 7 done
